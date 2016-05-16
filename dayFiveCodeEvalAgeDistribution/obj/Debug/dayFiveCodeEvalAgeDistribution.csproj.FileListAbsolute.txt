@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayFiveCodeEvalAgeDistribution\dayFiveCodeEvalAgeDistribution\bin\Debug\dayFiveCodeEvalAgeDistribution.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayFiveCodeEvalAgeDistribution\dayFiveCodeEvalAgeDistribution\obj\Debug\dayFiveCodeEvalAgeDistribution.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayFiveCodeEvalAgeDistribution\dayFiveCodeEvalAgeDistribution\bin\Debug\dayFiveCodeEvalAgeDistribution.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayFiveCodeEvalAgeDistribution\dayFiveCodeEvalAgeDistribution\bin\Debug\dayFiveCodeEvalAgeDistribution.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayFiveCodeEvalAgeDistribution\dayFiveCodeEvalAgeDistribution\obj\Debug\dayFiveCodeEvalAgeDistribution.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayFiveCodeEvalAgeDistribution\dayFiveCodeEvalAgeDistribution\obj\Debug\dayFiveCodeEvalAgeDistribution.pdb
